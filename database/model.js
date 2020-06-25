@@ -20,6 +20,7 @@ function findAll(callback) {
 function findOne(id, callback) {
   Carousels.find({ id: id }, callback);
 }
+// db.find({ id: id })
 
 // insertOne inserts one appImages schema into db
 function insertOne(schema, callback) {

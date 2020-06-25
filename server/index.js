@@ -14,6 +14,9 @@ app.use(function(req, res, next) {
 
 // 'http://ec2-52-53-128-255.us-west-1.compute.amazonaws.com:80'
 
+// 52.53.128.255
+// http://localhost:3003/?id=3
+
 app.use(express.static(__dirname + '/../client/dist'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));

@@ -24,7 +24,7 @@ class App0 extends React.Component {
   }
 
   componentDidMount = () => {
-   axios.get(`http://localhost:3003/carousels/${this.props.id}`)
+   axios.get(`/carousels/${this.props.id}`)
    .then((data) => {
     this.setState({
       current: data.data[0],
@@ -47,7 +47,7 @@ class App0 extends React.Component {
     if(this.state.readMore === 'READ MORE'){
       this.setState({
         features: this.state.lines[0],
-        additionalText1: this.state.lines[1],
+         additionalText1: this.state.lines[1],
          additionalText2: this.state.lines[2],
          additionalText3: this.state.lines[3],
          additionalText4: this.state.lines[4],
@@ -85,26 +85,11 @@ class App0 extends React.Component {
         alignText: 'center',
         fontfamily: 'Arial'
       }}>{this.state.readMore}</strong> onOpening={this.toggleAdditionalText} onClosing={this.toggleAdditionalText}>
-      <p className="description-text" id="feature" style={{
-        display: 'grid',
-        gridArea: 'feature'
-      }}>{this.state.lines[0]}</p>
-      <p className="description-text" id="text1" style={{
-        display: 'grid',
-        gridArea: 'text1'
-      }}>{this.state.lines[1]}</p>
-      <p className="description-text" id="addText2" style={{
-        display: 'grid',
-        gridArea: 'text2'
-      }}>{this.state.lines[2]}</p>
-      <p className="description-text" id="addText3" style={{
-        display: 'grid',
-        gridArea: 'text3'
-      }}>{this.state.lines[3]}</p>
-      <p className="description-text" id="addText4" style={{
-        display: 'grid',
-        gridArea: 'text3'
-      }}>{this.state.lines[4]}</p>
+      <p className="description-text" id="feature">{this.state.lines[0]}</p>
+      <p className="description-text" id="text1">{this.state.lines[1]}</p>
+      <p className="description-text" id="addText2">{this.state.lines[2]}</p>
+      <p className="description-text" id="addText3">{this.state.lines[3]}</p>
+      <p className="description-text" id="addText4">{this.state.lines[4]}</p>
       </Collapsible>
       </div>
 

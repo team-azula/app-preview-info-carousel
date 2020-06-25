@@ -1,7 +1,6 @@
 // const db = require('./index.js');
 var Carousels = require('./model.js');
 var mongoose = require('mongoose');
-var data = require('./seed_data.js');
 const imagesData = require('./seed_data');
 mongoose.connect('mongodb://database/googleplay');
 
@@ -17,7 +16,7 @@ var seedDb = function (data) {
 };
 
 
-seedDb(data);
+seedDb(imagesData);
 
 
 module.exports = seedDb;

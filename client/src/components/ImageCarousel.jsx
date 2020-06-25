@@ -27,11 +27,12 @@ export default class ImageCarousel extends React.Component {
 // }
 
   UNSAFE_componentWillMount() {
-    axios.get(`http://localhost:3003/carousels/${this.props.id}`).then((data) => {
+    axios.get(`/carousels/${this.props.id}`).then((data) => {
       this.setState({
         items: data.data[0].images,
         activeItemIndex: 0
       })
+      console.log(this.state.items)
       }).catch(err => console.log(err));
 
 }
@@ -78,7 +79,7 @@ export default class ImageCarousel extends React.Component {
     style={{
       height: 300,
       width: 180,
-      background: `url(${this.state.items[i]})` || `url(https://i.picsum.photos/id/63${Math.floor(Math.random() * 9)}/180/300.jpg)`
+      background: `url(${this.state.items[i]})` || `url(https://source.unsplash.com/random)`
     }}
   />
 )}
@@ -88,3 +89,5 @@ export default class ImageCarousel extends React.Component {
   }
 }
 
+
+// || `url(https://i.picsum.photos/id/63${Math.floor(Math.random() * 9)}/180/300.jpg)`

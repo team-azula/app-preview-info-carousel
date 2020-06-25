@@ -1,7 +1,7 @@
 module.exports = [
   { id: 1,
   app_description: 'reckon i aint got but one pose, as i am but a simple country poser, ur officer (this whole COURT is out of order, similar to its snack deployment machine in tha lobby)\nIt is difficult to grow old when you are magnificent. People want to kill you. They want to hang you on their wall.\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
   images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -17,7 +17,7 @@ module.exports = [
   ] },
 { id: 2,
   app_description: 'The world has its own schedule. It does not care about you. It does not care about your desires.\nYoure a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
 images:
 [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
 'https://i.picsum.photos/id/757/180/300.jpg',
@@ -33,7 +33,7 @@ images:
 ] },
 { id: 3,
   app_description: 'Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -49,7 +49,7 @@ images:
   ]},
 { id: 4,
   app_description: ' The world has its own schedule. It does not care about you. It does not care about your desires.\n Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -65,7 +65,7 @@ images:
   ]},
 { id: 5,
   app_description: ' some weirdo writer I found from the 70s referred to elvis as "the whirling hypnotwist" as if it was a common nickname for elvis. I have yet to find another example of anyone ever using that phrase and I gotta say, what a psycho!\nYoure a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -81,7 +81,7 @@ images:
   ]},
 { id: 6,
   app_description: 'reckon i aint got but one pose, as i am but a simple country poser, ur officer (this whole COURT is out of order, similar to its snack deployment machine in tha lobby)\nYoure a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -97,7 +97,7 @@ images:
   ]},
 { id: 7,
   app_description: ' The reasonable man tries to adapt himself to the world. The unreasonable man tries to adapt the world to himself. Therefore, all progress depends on the unreasonable man.\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -113,7 +113,7 @@ images:
   ]},
 { id: 8,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -129,7 +129,7 @@ images:
   ]},
 { id: 9,
   app_description: 'some weirdo writer I found from the 70s referred to elvis as "the whirling hypnotwist" as if it was a common nickname for elvis. I have yet to find another example of anyone ever using that phrase and I gotta say, what a psycho!\n Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -145,7 +145,7 @@ images:
   ]},
 { id: 10,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -161,39 +161,19 @@ images:
   ]},
 { id: 11,
   app_description: 'Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
-  [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
-    'https://i.picsum.photos/id/757/180/300.jpg',
-    'https://i.picsum.photos/id/767/300/300.jpg',
-    'https://i.picsum.photos/id/334/180/300.jpg',
-    'https://i.picsum.photos/id/791/180/300.jpg',
-    'https://i.picsum.photos/id/730/180/300.jpg',
-    'https://i.picsum.photos/id/731/180/300.jpg', 'https://i.picsum.photos/id/367/180/300.jpg',
-    'https://i.picsum.photos/id/366/180/300.jpg',
-    'https://i.picsum.photos/id/336/300/300.jpg',
-    'https://i.picsum.photos/id/382/180/300.jpg',
-    'https://i.picsum.photos/id/182/180/300.jpg'
+  [ 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300'
   ]},
 { id: 12,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
-  [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
-    'https://i.picsum.photos/id/757/180/300.jpg',
-    'https://i.picsum.photos/id/767/300/300.jpg',
-    'https://i.picsum.photos/id/334/180/300.jpg',
-    'https://i.picsum.photos/id/791/180/300.jpg',
-    'https://i.picsum.photos/id/730/180/300.jpg',
-    'https://i.picsum.photos/id/731/180/300.jpg', 'https://i.picsum.photos/id/367/180/300.jpg',
-    'https://i.picsum.photos/id/366/180/300.jpg',
-    'https://i.picsum.photos/id/336/300/300.jpg',
-    'https://i.picsum.photos/id/382/180/300.jpg',
-    'https://i.picsum.photos/id/182/180/300.jpg'
-  ]},
+ [ 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300', 'https://source.unsplash.com/random/180x300'
+]},
 { id: 13,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -209,7 +189,7 @@ images:
   ]},
 { id: 14,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -225,7 +205,7 @@ images:
   ]},
 { id: 15,
   app_description: 'some weirdo writer I found from the 70s referred to elvis as "the whirling hypnotwist" as if it was a common nickname for elvis. I have yet to find another example of anyone ever using that phrase and I gotta say, what a psycho!\nYoure a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -241,7 +221,7 @@ images:
   ]},
 { id: 16,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -257,7 +237,7 @@ images:
   ]},
 { id: 17,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -273,7 +253,7 @@ images:
   ]},
 { id: 18,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -289,7 +269,7 @@ images:
   ]},
 { id: 19,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -305,7 +285,7 @@ images:
   ]},
 { id: 20,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -321,7 +301,7 @@ images:
   ]},
 { id: 21,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -337,7 +317,7 @@ images:
   ]},
 { id: 22,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -353,7 +333,7 @@ images:
   ]},
 { id: 23,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -369,7 +349,7 @@ images:
   ]},
 { id: 24,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -385,7 +365,7 @@ images:
   ]},
 { id: 25,
   app_description: 'some weirdo writer I found from the 70s referred to elvis as "the whirling hypnotwist" as if it was a common nickname for elvis. I have yet to find another example of anyone ever using that phrase and I gotta say, what a psycho!\nYoure a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -401,7 +381,7 @@ images:
   ]},
 { id: 26,
   app_description: ' The reasonable man tries to adapt himself to the world. The unreasonable man tries to adapt the world to himself. Therefore, all progress depends on the unreasonable man.\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -417,7 +397,7 @@ images:
   ]},
 { id: 27,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -433,7 +413,7 @@ images:
   ]},
 { id: 28,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -449,7 +429,7 @@ images:
   ]},
 { id: 29,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -465,7 +445,7 @@ images:
   ]},
 { id: 30,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -481,7 +461,7 @@ images:
   ]},
 { id: 31,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -497,7 +477,7 @@ images:
   ]},
 { id: 32,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -513,7 +493,7 @@ images:
   ]},
 { id: 33,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -529,7 +509,7 @@ images:
   ]},
 { id: 34,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -545,7 +525,7 @@ images:
   ]},
 { id: 35,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -561,7 +541,7 @@ images:
   ]},
 { id: 36,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -577,7 +557,7 @@ images:
   ]},
 { id: 37,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -593,7 +573,7 @@ images:
   ]},
 { id: 38,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -609,7 +589,7 @@ images:
   ]},
 { id: 39,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -625,7 +605,7 @@ images:
   ]},
 { id: 40,
   app_description: 'reckon i aint got but one pose, as i am but a simple country poser, ur officer (this whole COURT is out of order, similar to its snack deployment machine in tha lobby)\n Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -641,7 +621,7 @@ images:
   ]},
 { id: 41,
   app_description: 'some weirdo writer I found from the 70s referred to elvis as "the whirling hypnotwist" as if it was a common nickname for elvis. I have yet to find another example of anyone ever using that phrase and I gotta say, what a psycho!\nYoure a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -657,7 +637,7 @@ images:
   ]},
 { id: 42,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -673,7 +653,7 @@ images:
   ]},
 { id: 43,
   app_description: ' The reasonable man tries to adapt himself to the world. The unreasonable man tries to adapt the world to himself. Therefore, all progress depends on the unreasonable man.\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -689,7 +669,7 @@ images:
   ]},
 { id: 44,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -705,7 +685,7 @@ images:
   ]},
 { id: 45,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -721,7 +701,7 @@ images:
   ]},
 { id: 46,
   app_description: 'Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -737,7 +717,7 @@ images:
   ]},
 { id: 47,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -753,7 +733,7 @@ images:
   ]},
 { id: 48,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -769,7 +749,7 @@ images:
   ]},
 { id: 49,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -785,7 +765,7 @@ images:
   ]},
 { id: 50,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -801,7 +781,7 @@ images:
   ]},
 { id: 51,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -817,7 +797,7 @@ images:
   ]},
 { id: 52,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -833,7 +813,7 @@ images:
   ]},
 { id: 53,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -849,7 +829,7 @@ images:
   ]},
 { id: 54,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -865,7 +845,7 @@ images:
   ]},
 { id: 55,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -881,7 +861,7 @@ images:
   ]},
 { id: 56,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -897,7 +877,7 @@ images:
   ]},
 { id: 57,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -913,7 +893,7 @@ images:
   ]},
 { id: 58,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -929,7 +909,7 @@ images:
   ]},
 { id: 59,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -945,7 +925,7 @@ images:
   ]},
 { id: 60,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -961,7 +941,7 @@ images:
   ]},
 { id: 61,
   app_description: 'reckon i aint got but one pose, as i am but a simple country poser, ur officer (this whole COURT is out of order, similar to its snack deployment machine in tha lobby)\nYoure a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -977,7 +957,7 @@ images:
   ]},
 { id: 62,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -993,7 +973,7 @@ images:
   ]},
 { id: 63,
   app_description: ' She counted. One. She could hear the steps coming closer. Two. Puffs of breath could be seen coming from his mouth. Three. He stopped beside her. Four. She pulled the trigger of the gun.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1009,7 +989,7 @@ images:
   ]},
 { id: 64,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1025,7 +1005,7 @@ images:
   ]},
 { id: 65,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1041,7 +1021,7 @@ images:
   ]},
 { id: 66,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1057,7 +1037,7 @@ images:
   ]},
 { id: 67,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1073,7 +1053,7 @@ images:
   ]},
 { id: 68,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1089,7 +1069,7 @@ images:
   ]},
 { id: 69,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1105,7 +1085,7 @@ images:
   ]},
 { id: 70,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1121,7 +1101,7 @@ images:
   ]},
 { id: 71,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1137,7 +1117,7 @@ images:
   ]},
 { id: 72,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1153,7 +1133,7 @@ images:
   ]},
 { id: 73,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1169,7 +1149,7 @@ images:
   ]},
 { id: 74,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1185,7 +1165,7 @@ images:
   ]},
 { id: 75,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1201,7 +1181,7 @@ images:
   ]},
 { id: 76,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1217,7 +1197,7 @@ images:
   ]},
 { id: 77,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1233,7 +1213,7 @@ images:
   ]},
 { id: 78,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1249,7 +1229,7 @@ images:
   ]},
 { id: 79,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1265,7 +1245,7 @@ images:
   ]},
 { id: 80,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1281,7 +1261,7 @@ images:
   ]},
 { id: 81,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1297,7 +1277,7 @@ images:
   ]},
 { id: 82,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1313,7 +1293,7 @@ images:
   ]},
 { id: 83,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1329,7 +1309,7 @@ images:
   ]},
 { id: 84,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1345,7 +1325,7 @@ images:
   ]},
 { id: 85,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1361,7 +1341,7 @@ images:
   ]},
 { id: 86,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1377,7 +1357,7 @@ images:
   ]},
 { id: 87,
   app_description: ' The boy walked down the street in a carefree way, playing without notice of what was about him. He didnt hear the sound of the car as his ball careened into the road. He took a step toward it, and in doing so sealed his fate.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1393,7 +1373,7 @@ images:
   ]},
 { id: 88,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1409,7 +1389,7 @@ images:
   ]},
 { id: 89,
   app_description: ' Youre a hairy wizard! *flails pixelated arms to the left*, *flails pixelated arms to the right* *head remains intact but only from the nose up*. Im a hhhhwwwhat?!\n Your honor, we have another cut and dry case of yet another baby genius who thinks he can swindle the american justice system. We must try this cunning infant as an adult or we may have a crime wave on our hands the likes of which we have never smelled before.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1425,7 +1405,7 @@ images:
   ]},
 { id: 90,
   app_description: 'Was it enough? That was the question he kept asking himself. Was being satisfied enough? He looked around him at everyone yearning to just be satisfied in their daily life and he had reached that goal. He knew that he was satisfied and he also knew it was not going to be enough.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1441,7 +1421,7 @@ images:
   ]},
 { id: 91,
   app_description: 'The wolves stopped in their tracks, sizing up the mother and her cubs. It had been over a week since their last meal and they were getting desperate. The cubs would make a good meal, but there were high risks taking on the mother Grizzly. A decision had to be made and the wrong choice could signal the end of the pack.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1457,7 +1437,7 @@ images:
   ]},
 { id: 92,
   app_description: 'The wolves stopped in their tracks, sizing up the mother and her cubs. It had been over a week since their last meal and they were getting desperate. The cubs would make a good meal, but there were high risks taking on the mother Grizzly. A decision had to be made and the wrong choice could signal the end of the pack.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1473,7 +1453,7 @@ images:
   ]},
 { id: 93,
   app_description: 'reckon i aint got but one pose, as i am but a simple country poser, ur officer (this whole COURT is out of order, similar to its snack deployment machine in tha lobby)\nThe wolves stopped in their tracks, sizing up the mother and her cubs. It had been over a week since their last meal and they were getting desperate. The cubs would make a good meal, but there were high risks taking on the mother Grizzly. A decision had to be made and the wrong choice could signal the end of the pack.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1489,7 +1469,7 @@ images:
   ]},
 { id: 94,
   app_description: 'The wolves stopped in their tracks, sizing up the mother and her cubs. It had been over a week since their last meal and they were getting desperate. The cubs would make a good meal, but there were high risks taking on the mother Grizzly. A decision had to be made and the wrong choice could signal the end of the pack.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1505,7 +1485,7 @@ images:
   ]},
 { id: 95,
   app_description: 'The wolves stopped in their tracks, sizing up the mother and her cubs. It had been over a week since their last meal and they were getting desperate. The cubs would make a good meal, but there were high risks taking on the mother Grizzly. A decision had to be made and the wrong choice could signal the end of the pack.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1521,7 +1501,7 @@ images:
   ]},
 { id: 96,
   app_description: 'The wolves stopped in their tracks, sizing up the mother and her cubs. It had been over a week since their last meal and they were getting desperate. The cubs would make a good meal, but there were high risks taking on the mother Grizzly. A decision had to be made and the wrong choice could signal the end of the pack.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1537,7 +1517,7 @@ images:
   ]},
 { id: 97,
   app_description: 'The wolves stopped in their tracks, sizing up the mother and her cubs. It had been over a week since their last meal and they were getting desperate. The cubs would make a good meal, but there were high risks taking on the mother Grizzly. A decision had to be made and the wrong choice could signal the end of the pack.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1553,7 +1533,7 @@ images:
   ]},
 { id: 98,
   app_description: 'The wolves stopped in their tracks, sizing up the mother and her cubs. It had been over a week since their last meal and they were getting desperate. The cubs would make a good meal, but there were high risks taking on the mother Grizzly. A decision had to be made and the wrong choice could signal the end of the pack.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1569,7 +1549,7 @@ images:
   ]},
 { id: 99,
   app_description: 'The wolves stopped in their tracks, sizing up the mother and her cubs. It had been over a week since their last meal and they were getting desperate. The cubs would make a good meal, but there were high risks taking on the mother Grizzly. A decision had to be made and the wrong choice could signal the end of the pack.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',
@@ -1585,7 +1565,7 @@ images:
   ]},
 { id: 100,
   app_description: 'The wolves stopped in their tracks, sizing up the mother and her cubs. It had been over a week since their last meal and they were getting desperate. The cubs would make a good meal, but there were high risks taking on the mother Grizzly. A decision had to be made and the wrong choice could signal the end of the pack.',
-  additional_text: 'FEATURES\n★ plz send new non silly brain plz! things are way too silly!\n★ steady havin what I believe a psychiatrist would call a "mental breakdance"\n★ when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★ not everyday that u get so hilarious brained that u invent the solutions machine' ,
+  additional_text: 'FEATURES\n★  plz send new non silly brain plz! things are way too silly!\n★  steady havin what I believe a psychiatrist would call a "mental breakdance"\n★  when it comes to my mental brain, im just lookin 4 the right crank to pull (keep pulling the wrong cranks, turns out)\n★  not everyday that u get so hilarious brained that u invent the solutions machine',
  images:
   [ 'https://i.picsum.photos/id/737/180/300.jpg', 'https://i.picsum.photos/id/447/300/300.jpg', 'https://i.picsum.photos/id/446/180/300.jpg',
     'https://i.picsum.photos/id/757/180/300.jpg',

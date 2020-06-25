@@ -3,7 +3,7 @@ import Collapsible from 'react-collapsible';
 
 
 const dropdownOpen = () => {
-  <Collapsible  id="readmore" transitionTime="280" dataPlacement="bottom" className="comet-popover--top-left-aligned" trigger=<strong style={{
+  <Collapsible  id="readmore" dataPlacement="bottom" className="comet-popover--top-left-aligned" trigger=<strong style={{
     display: 'grid',
     cursor: 'pointer',
     gridArea: 'readMore',
