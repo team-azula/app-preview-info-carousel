@@ -79,7 +79,7 @@ export default class ImageCarousel extends React.Component {
     style={{
       height: 300,
       width: 180,
-      background: `url(${this.state.items[i]})` || `url(https://source.unsplash.com/random)`
+      background: `url(https://source.unsplash.com/random)`
     }}
   />
 )}
@@ -91,3 +91,5 @@ export default class ImageCarousel extends React.Component {
 
 
 // || `url(https://i.picsum.photos/id/63${Math.floor(Math.random() * 9)}/180/300.jpg)`
+
+// `url(${this.state.items[i]})` ||
