@@ -10,22 +10,30 @@ const carouselSchema = new mongoose.Schema({
 
 const Carousels = mongoose.model( 'Carousel', carouselSchema );
 
-
 // findAll retrieves all appimages data
-function findAll(callback) {
-  Carousels.find({}, callback);
-}
+function findAll() {
+  return Carousels.find({})
+    .catch((err) => {
+      console.log('error inside model.findAll(): ', err);
+    });
+};
 
 // findOne will retrieve the appimage associated with the given id
-function findOne(id, callback) {
-  Carousels.find({ id: id }, callback);
-}
-// db.find({ id: id })
+const findOne = async (id, callback) => {
+  return Carousels.find({ id })
+    .catch((err) => {
+      console.log('error inside model.findOne(): ', err);
+      return err;
+    });
+};
 
 // insertOne inserts one appImages schema into db
-const insertOne = async (schema) => {
-  // return Carousels.create(schema, callback);
-  return 'returned from insertOne in model.js';
+const insertOne = async (data) => {
+  return Carousels.create(data)
+    .catch((err) => {
+      console.log('error inside model.insertOne(): ', err);
+      return err;
+    });
 };
 
 // Fetch apps by id from database

@@ -25,44 +25,46 @@ class App0 extends React.Component {
   }
 
   componentDidMount = () => {
-   axios.get(`/carousels/${this.state.id}`)
-   .then((data) => {
-    this.setState({
-      current: data.data[0],
-      description: data.data[0].app_description,
-      features: '',
-      lines: (data.data[0].additional_text).split('\n'),
-      additionalText1: '',
-      additionalText2: '',
-      additionalText3: '',
-      additionalText4: ''
+    console.log('component mounted');
+    axios.get(`/carousels/${this.state.id}`)
+    .then((data) => {
+      this.setState({
+        current: data.data[0],
+        description: data.data[0].app_description,
+        features: '',
+        lines: (data.data[0].additional_text).split('\n'),
+        additionalText1: '',
+        additionalText2: '',
+        additionalText3: '',
+        additionalText4: ''
+      })
     })
-   })
-  .then( () => (
-    console.log('get req successful', this.state.current)
-  ))
-  .catch(err => console.log(err));
+    .then( () => (
+      console.log('get req successful', this.state.current)
+    ))
+    .catch(err => console.log(err));
   }
 
   toggleAdditionalText(){
-    if(this.state.readMore === 'READ MORE'){
-      this.setState({
-        features: this.state.lines.split('\n')[0],
-         additionalText1: this.state.lines.split('\n')[1],
-         additionalText2: this.state.lines.split('\n')[2],
-         additionalText3: this.state.lines.split('\n')[3],
-         additionalText4: this.state.lines.split('\n')[4],
-        readMore: 'COLLAPSE'
-      })
-    } else {
-      this.setState({
-        features: this.state.lines[0],
-        additionalText1: this.state.lines[1],
-         additionalText2: this.state.lines[2],
-         additionalText3: this.state.lines[3],
-        readMore: 'READ MORE'
-      })
-    }
+    return;
+    // if(this.state.readMore === 'READ MORE') {
+    //   this.setState({
+    //     features: this.state.lines.split('\n')[0],
+    //      additionalText1: this.state.lines.split('\n')[1],
+    //      additionalText2: this.state.lines.split('\n')[2],
+    //      additionalText3: this.state.lines.split('\n')[3],
+    //      additionalText4: this.state.lines.split('\n')[4],
+    //     readMore: 'COLLAPSE'
+    //   })
+    // } else {
+    //   this.setState({
+    //     features: this.state.lines[0],
+    //     additionalText1: this.state.lines[1],
+    //      additionalText2: this.state.lines[2],
+    //      additionalText3: this.state.lines[3],
+    //     readMore: 'READ MORE'
+    //   })
+    // }
 
   }
 
@@ -75,7 +77,7 @@ class App0 extends React.Component {
 
 
 
-      <Collapsible  id="readmore" transitionTime='280'
+      <Collapsible  id="readmore" transitionTime={280}
       dataPlacement="top" className="comet-popover--top-left-aligned" trigger=<strong style={{
         display: 'grid',
         cursor: 'pointer',
@@ -86,11 +88,11 @@ class App0 extends React.Component {
         alignText: 'center',
         fontfamily: 'Arial'
       }}>{this.state.readMore}</strong> onOpening={this.toggleAdditionalText} onClosing={this.toggleAdditionalText}>
-      <p className="description-text" id="feature">{this.state.lines.split('\n')[0]}</p>
+      {/* <p className="description-text" id="feature">{this.state.lines.split('\n')[0]}</p>
       <p className="description-text" id="text1">{this.state.lines.split('\n')[1]}</p>
       <p className="description-text" id="addText2">{this.state.lines.split('\n')[2]}</p>
       <p className="description-text" id="addText3">{this.state.lines.split('\n')[3]}</p>
-      <p className="description-text" id="addText4">{this.state.lines.split('\n')[4]}</p>
+      <p className="description-text" id="addText4">{this.state.lines.split('\n')[4]}</p> */}
       </Collapsible>
       </div>
 

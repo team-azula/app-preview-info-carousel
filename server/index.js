@@ -23,17 +23,25 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 
 app.get('/carousels/:id', (req, res) => {
-  Carousels.find({id: req.params.id}, (err, results) => {
-    if (err) {
-      return console.log('error getting from db: ', err)
-    }
-    res.json(results)
-  });
+  console.log('req.params.id: ', req.params.id);
+  const { id } = req.params;
+  // res.status(200).json('res for get request');
+  model.findOne(id)
+    .then((data) => {
+      res.status(200).json(data);
+    })
+    .catch((err) => {
+      console.log('')
+    });
 });
 
 
-app.post('/carousels/:id', (req, res) => {
-  return model.insertOne()
+app.post('/carousels', (req, res) => {
+  let data = req.body;
+  if (data._id) {
+    res.status(403).send('cannot post to database with existing _id');
+  }
+  return model.insertOne(data)
   .then((response) => {
     console.log('response from insertOne: ', response);
     res.json(response);
