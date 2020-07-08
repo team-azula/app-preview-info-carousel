@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const Carousels = require('../database/model.js');
+const model = require('../database/model.js');
 const bodyParser = require('body-parser');
 const db = require('../database/index.js');
 const app = express();
@@ -28,8 +28,17 @@ app.get('/carousels/:id', (req, res) => {
       return console.log('error getting from db: ', err)
     }
     res.json(results)
-  })
-})
+  });
+});
+
+
+app.post('/carousels/:id', (req, res) => {
+  return model.insertOne()
+  .then((response) => {
+    console.log('response from insertOne: ', response);
+    res.json(response);
+  });
+});
 
 
 

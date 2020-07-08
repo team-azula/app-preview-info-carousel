@@ -23,18 +23,22 @@ function findOne(id, callback) {
 // db.find({ id: id })
 
 // insertOne inserts one appImages schema into db
-function insertOne(schema, callback) {
-  Carousels.create(schema, callback);
-}
+const insertOne = async (schema) => {
+  // return Carousels.create(schema, callback);
+  return 'returned from insertOne in model.js';
+};
 
 // Fetch apps by id from database
-function getApps(id, callback) {
-  Carousels.find({ "by.id": id }, callback);
-}
+const getApps = async (id, callback) => {
+  return Carousels.find({ "by.id": id }, callback);
+};
 
 
-exports.findOne = findOne;
-exports.findAll = findAll;
-exports.insertOne = insertOne;
-exports.Carousels = Carousels;
-module.exports = Carousels;
+// exports.findOne = findOne;
+// exports.findAll = findAll;
+// exports.insertOne = insertOne;
+// exports.Carousels = Carousels;
+// module.exports = Carousels;
+module.exports = {
+  findOne, findAll, insertOne, Carousels
+};
