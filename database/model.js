@@ -36,6 +36,21 @@ const insertOne = async (data) => {
     });
 };
 
+const updateCarousel = async (id, data) => {
+  return Carousels.updateCarousel({ id }, data)
+    .catch((err) => {
+      console.log('error inside model.updateCarousel(): ', err);
+      return err;
+    });
+};
+
+const deleteCarousel = async (id) => {
+  return Carousels.deleteOne({ id })
+    .catch((err) => {
+      console.log('error inside model.deleteCarousel(): ', err);
+    });
+};
+
 // Fetch apps by id from database
 const getApps = async (id, callback) => {
   return Carousels.find({ "by.id": id }, callback);
@@ -48,5 +63,5 @@ const getApps = async (id, callback) => {
 // exports.Carousels = Carousels;
 // module.exports = Carousels;
 module.exports = {
-  findOne, findAll, insertOne, Carousels
+  Carousels, findOne, findAll, insertOne, updateCarousel, deleteCarousel
 };

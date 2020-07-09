@@ -42,12 +42,42 @@ app.post('/carousels', (req, res) => {
     res.status(403).send('cannot post to database with existing _id');
   }
   return model.insertOne(data)
-  .then((response) => {
-    console.log('response from insertOne: ', response);
-    res.json(response);
-  });
+    .then((response) => {
+      console.log('response from insertOne: ', response);
+      res.status(200).json(response);
+    })
+    .catch((err) => {
+      console.log('error in app.post() endpoing: ', err);
+      res.status(500).send(err);
+    });
 });
 
+app.put('/carousels/:id', (req, res) => {
+  const { id } = req.params;
+  const data = req.body;
+  model.updateCarousel(id, data)
+    .then((response) => {
+      console.log('response from updateCarousel: ', response);
+      res.status(200).json(response);
+    })
+    .catch((err) => {
+      console.log('error inside ');
+      res.status(500).json(err);
+    });
+});
+
+app.delete('/carousels/:id', (req, res) => {
+  const { id } = req.params;
+  model.deleteCarousel(id)
+    .then((response) => {
+      console.log('response in endpoint app.delete(): ', response);
+      res.status(200).send(response);
+    })
+    .catch((err) => {
+      console.log('error in endpoint app.delete(): ', err);
+      res.status(500).json(err);
+    });
+});
 
 
 app.listen(PORT, () => {
