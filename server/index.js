@@ -61,7 +61,7 @@ app.put('/carousels/:id', (req, res) => {
       res.status(200).json(response);
     })
     .catch((err) => {
-      console.log('error inside ');
+      console.log('error inside endpoint app.put(): ', err);
       res.status(500).json(err);
     });
 });

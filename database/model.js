@@ -37,7 +37,7 @@ const insertOne = async (data) => {
 };
 
 const updateCarousel = async (id, data) => {
-  return Carousels.updateCarousel({ id }, data)
+  return Carousels.updateOne({ id }, data)
     .catch((err) => {
       console.log('error inside model.updateCarousel(): ', err);
       return err;
