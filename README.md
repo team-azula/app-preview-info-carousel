@@ -2,6 +2,38 @@
 
 > This module includes the image carousel including various views of each app as well as the app description paragraph(s)
 
+# API
+
+## endpoints:
+* **GET: *'/carousels/:id'***
+```
+{
+    "images": [
+        "https://i.picsum.photos/id/737/180/300.jpg",
+        "https://i.picsum.photos/id/447/300/300.jpg",
+        "https://i.picsum.photos/id/446/180/300.jpg"
+    ],
+    "app_description": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "additional_text": "XXXXXXXXXXXXXXXXXXXXXXXXxx"
+}
+```
+* **POST: *'/carousels'***
+```*
+body:
+{
+    "images": [
+        "https://i.picsum.photos/id/737/180/300.jpg",
+        "https://i.picsum.photos/id/447/300/300.jpg",
+        "https://i.picsum.photos/id/446/180/300.jpg"
+    ],
+    "app_description": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "additional_text": "XXXXXXXXXXXXXXXXXXXXXXXXxx"
+}
+```
+* **PUT: *'/carousels/:id'***
+* **DELETE: *'/carousels/:id'***
+
+
 ## Related Projects
 
   - https://github.com/FEC-Group-Link/app-info-logistics-component

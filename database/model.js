@@ -10,31 +10,58 @@ const carouselSchema = new mongoose.Schema({
 
 const Carousels = mongoose.model( 'Carousel', carouselSchema );
 
-
 // findAll retrieves all appimages data
-function findAll(callback) {
-  Carousels.find({}, callback);
-}
+function findAll() {
+  return Carousels.find({})
+    .catch((err) => {
+      console.log('error inside model.findAll(): ', err);
+    });
+};
 
 // findOne will retrieve the appimage associated with the given id
-function findOne(id, callback) {
-  Carousels.find({ id: id }, callback);
-}
-// db.find({ id: id })
+const findOne = async (id, callback) => {
+  return Carousels.find({ id })
+    .catch((err) => {
+      console.log('error inside model.findOne(): ', err);
+      return err;
+    });
+};
 
 // insertOne inserts one appImages schema into db
-function insertOne(schema, callback) {
-  Carousels.create(schema, callback);
-}
+const insertOne = async (data) => {
+  return Carousels.create(data)
+    .catch((err) => {
+      console.log('error inside model.insertOne(): ', err);
+      return err;
+    });
+};
+
+const updateCarousel = async (id, data) => {
+  return Carousels.updateOne({ id }, data)
+    .catch((err) => {
+      console.log('error inside model.updateCarousel(): ', err);
+      return err;
+    });
+};
+
+const deleteCarousel = async (id) => {
+  return Carousels.deleteOne({ id })
+    .catch((err) => {
+      console.log('error inside model.deleteCarousel(): ', err);
+    });
+};
 
 // Fetch apps by id from database
-function getApps(id, callback) {
-  Carousels.find({ "by.id": id }, callback);
-}
+const getApps = async (id, callback) => {
+  return Carousels.find({ "by.id": id }, callback);
+};
 
 
-exports.findOne = findOne;
-exports.findAll = findAll;
-exports.insertOne = insertOne;
-exports.Carousels = Carousels;
-module.exports = Carousels;
+// exports.findOne = findOne;
+// exports.findAll = findAll;
+// exports.insertOne = insertOne;
+// exports.Carousels = Carousels;
+// module.exports = Carousels;
+module.exports = {
+  Carousels, findOne, findAll, insertOne, updateCarousel, deleteCarousel
+};
