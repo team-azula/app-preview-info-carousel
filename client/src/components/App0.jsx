@@ -47,24 +47,24 @@ class App0 extends React.Component {
 
   toggleAdditionalText(){
     return;
-    // if(this.state.readMore === 'READ MORE') {
-    //   this.setState({
-    //     features: this.state.lines.split('\n')[0],
-    //      additionalText1: this.state.lines.split('\n')[1],
-    //      additionalText2: this.state.lines.split('\n')[2],
-    //      additionalText3: this.state.lines.split('\n')[3],
-    //      additionalText4: this.state.lines.split('\n')[4],
-    //     readMore: 'COLLAPSE'
-    //   })
-    // } else {
-    //   this.setState({
-    //     features: this.state.lines[0],
-    //     additionalText1: this.state.lines[1],
-    //      additionalText2: this.state.lines[2],
-    //      additionalText3: this.state.lines[3],
-    //     readMore: 'READ MORE'
-    //   })
-    // }
+    if(this.state.readMore === 'READ MORE') {
+      this.setState({
+        features: this.state.lines.split('\n')[0],
+         additionalText1: this.state.lines.split('\n')[1],
+         additionalText2: this.state.lines.split('\n')[2],
+         additionalText3: this.state.lines.split('\n')[3],
+         additionalText4: this.state.lines.split('\n')[4],
+        readMore: 'COLLAPSE'
+      })
+    } else {
+      this.setState({
+        features: this.state.lines[0],
+        additionalText1: this.state.lines[1],
+         additionalText2: this.state.lines[2],
+         additionalText3: this.state.lines[3],
+        readMore: 'READ MORE'
+      })
+    }
 
   }
 
