@@ -1,8 +1,11 @@
 // const db = require('./index.js');
 var Carousels = require('./model.js');
 var mongoose = require('mongoose');
-const imagesData = require('./seed_data');
+// const imagesData = require('./seed_data');
 mongoose.connect('mongodb://database/googleplay');
+const faker = require('faker');
+
+
 
 // populate db
 var seedDb = function (data) {

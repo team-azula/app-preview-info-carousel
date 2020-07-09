@@ -35,7 +35,6 @@ app.get('/carousels/:id', (req, res) => {
     });
 });
 
-
 app.post('/carousels', (req, res) => {
   let data = req.body;
   if (data._id) {
