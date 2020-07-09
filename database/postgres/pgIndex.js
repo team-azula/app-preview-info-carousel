@@ -7,10 +7,10 @@ const { Sequelize } = require('sequelize');
  * database name: 'SDC-backend'
  * username: postgres
  * password: 'gimmie'
- * host: localhost:5432
+ * host: localhost
  */
-const sequelize = new Sequelize('dev-postgres', 'postgres', 'gimmie', {
-  host: 'localhost:5432',
+const sequelize = new Sequelize('SDC-backend', 'postgres', 'gimmie', {
+  host: 'localhost',
   dialect: 'postgres'
 });
 
