@@ -33,6 +33,7 @@ const AppPreviewData = sequelize.define('app', {
   }
 });
 
+
 const initDb = async () => {
   return sequelize.sync({ force: true })
   .catch((err) => {
@@ -49,8 +50,17 @@ const addSingleApp = async (inputObj) => {
     });
 };
 
+const addBulkApps = async (inputArray) => {
+  return AppPreviewData.bulkCreate(inputArray)
+    .catch((err) => {
+      console.log('error in addBulkApps: ', err);
+    });
+};
+
 const getAllAppData = async () => {
-  return AppPreviewData.findAll({})
+  return AppPreviewData.findAll({
+    raw: true
+  })
     .catch((err) => {
       console.log('error selecting all from AppPreviewData: ', err);
     });
@@ -87,5 +97,5 @@ const testConnection = async () => {
 
 
 
-module.exports = { initDb, addSingleApp, getAllAppData };
+module.exports = { initDb, addSingleApp, addBulkApps, getAllAppData };
 
