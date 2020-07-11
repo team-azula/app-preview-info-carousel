@@ -13,7 +13,7 @@ const { Sequelize } = require('sequelize');
 const sequelize = new Sequelize('SDC-backend', 'SDC-backend', 'gimmie', {
   host: 'localhost',
   dialect: 'postgres',
-  logging: console.log
+  logging: null
 });
 
 const AppPreviewData = sequelize.define('app', {
@@ -51,6 +51,7 @@ const addSingleApp = async (inputObj) => {
 };
 
 const addBulkApps = async (inputArray) => {
+  // console.log('inputArray in addBulkApps: ', inputArray);
   return AppPreviewData.bulkCreate(inputArray)
     .catch((err) => {
       console.log('error in addBulkApps: ', err);
@@ -66,6 +67,15 @@ const getAllAppData = async () => {
     });
 };
 
+const getSingleApp = async (app_id) => {
+  return AppPreviewData.findAll({
+    where: { "app_id": app_id },
+    raw: true
+  })
+    .catch((err) => {
+      console.log('error selecting one from AppPreviewData: ', err);
+    });
+};
 
 /**
  * to test connection, uncomment testConnection() and run this file
@@ -97,5 +107,5 @@ const testConnection = async () => {
 
 
 
-module.exports = { initDb, addSingleApp, addBulkApps, getAllAppData };
+module.exports = { initDb, addSingleApp, addBulkApps, getAllAppData, getSingleApp };
 
