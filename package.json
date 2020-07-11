@@ -9,6 +9,8 @@
   "scripts": {
     "start": "nodemon server/index.js",
     "build": "webpack -d --watch",
+    "initPostgres": "node database/postgres/pgInit.js",
+    "seedPostgres": "node database/postgres/pgSeed.js",
     "db:setup": "node database/seed.js",
     "test": "jest",
     "build:scss": "webpack --mode production --config webpack.scss.config.js && rm ./dist/styles.js ./dist/lettering.js ./dist/captioned.js",
