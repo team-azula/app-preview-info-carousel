@@ -3,17 +3,18 @@ const ExpressCassandra = require('express-cassandra');
 const models = ExpressCassandra.createClient({
   clientOptions: {
     contactPoints: ['localhost'],
-    protocalOptions: { port: 7000 },
+    protocalOptions: { port: 9042 },
     keyspace: 'cassandra_keyspace_01',
     ormOptions: {
       defaultReplicationStrategy : {
           class: 'SimpleStrategy',
           replication_factor: 1
       },
-      migration: 'safe',
+      migration: 'alter',
     }
   }
 });
+
 
 const AppPreviewModel = models.loadSchema('app', {
   fields: {
@@ -36,12 +37,20 @@ const AppPreviewModel = models.loadSchema('app', {
 });
 
 
+const cassInit = () => {
+  return AppPreviewModel.syncDBAsync()
+    .catch((err) => {
+      console.log('error in cassInit: ', err);
+    });
+};
+
+
+
 const addSingleApp = (dataObj) => {
   const { images, app_description, additional_text } = dataObj;
-  let newEntry = new models.instance.app({ images, app_description, additional_text });
+  let newEntry = new AppPreviewModel({ images, app_description, additional_text });
   return newEntry.saveAsync(newEntry)
     .then((dbResponse) => {
-      console.log('dbResponse in addSingleApp: ', dbResponse);
       return dbResponse;
     })
     .catch((err) => {
@@ -51,4 +60,17 @@ const addSingleApp = (dataObj) => {
 };
 
 
-module.exports = { addSingleApp };
+const readAllApps = () => {
+  return AppPreviewModel.findAsync({})
+    .then((cassResponse) => {
+      return cassResponse;
+    })
+    .catch((err) => {
+      console.log('error in readAllApps: ', err);
+      return err;
+    });
+};
+
+
+module.exports = { addSingleApp, cassInit, readAllApps };
+

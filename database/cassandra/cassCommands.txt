@@ -1,0 +1,6 @@
+
+sudo docker run --name cassandra-container --network cassandra-net -d cassandra:latest
+
+sudo docker run --name cassandra-container-2 --network cassandra-net -d -e CASSANDRA_SEEDS=cassandra-container cassandra:latest
+
+

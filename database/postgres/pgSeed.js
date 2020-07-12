@@ -93,26 +93,3 @@ const seed = () => {
 seed();
 
 
-
-// const seedPostgresDb = () => {
-//   return db.initDb()
-//   .then(() => {
-//     startTime = new Date().valueOf();
-//     let promiseArray = [];
-//     for (let i = 0; i < dataSize; i++) {
-//       promiseArray.push(db.addBulkApps(firstObj))
-//     }
-//     return Promise.all(promiseArray);
-//   })
-//   .then((response) => {
-//     // console.log('response from addSingleApp: ', response);
-//     endTime = new Date().valueOf();
-//     let totalTime = ((endTime - startTime) / 1000);
-//     console.log(`total time to add ${dataSize} to db was ${totalTime}`);
-//   })
-//   .catch((err) => {
-//     console.log('error inside seedPostgresDb: ', err);
-//   });
-// };
-
-
