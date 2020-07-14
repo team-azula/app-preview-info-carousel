@@ -8,7 +8,6 @@ const client = new cassandra.Client({
 });
 
 // console.log('client: ', client);
-
 const getStateOfCassandra = async () => {
   await client.connect();
   const state = client.getState();
@@ -18,8 +17,6 @@ const getStateOfCassandra = async () => {
 };
 
 // getStateOfCassandra();
-
-
 const getOneById = async (id) => {
   console.log('id: ', id);
   await client.connect();
@@ -29,7 +26,6 @@ const getOneById = async (id) => {
   return result;
 };
 
-
 // getOneById('82b3dc30-d37e-4be8-9167-f698cedc088b')
 //   .then((result) => {
 //     console.log('result: ', result);
@@ -38,4 +34,6 @@ const getOneById = async (id) => {
 //     console.log('err: ', err);
 //   })
 
+
 module.exports = { getStateOfCassandra, getOneById };
+
