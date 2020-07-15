@@ -9,6 +9,8 @@
   "scripts": {
     "start": "nodemon server/index.js",
     "build": "webpack -d --watch",
+    "initPostgres": "node database/postgres/pgInit.js",
+    "seedPostgres": "node database/postgres/pgSeed.js",
     "db:setup": "node database/seed.js",
     "test": "jest",
     "build:scss": "webpack --mode production --config webpack.scss.config.js && rm ./dist/styles.js ./dist/lettering.js ./dist/captioned.js",
@@ -23,14 +25,18 @@
     "bootstrap": "^4.4.1",
     "eslint": "^6.8.0",
     "express": "^4.16.4",
+    "jsdoc": "^3.6.4",
     "mongodb": "^3.5.5",
     "mongoose": "^5.9.4",
     "node": "^13.10.1",
+    "pg": "^8.3.0",
+    "pg-hstore": "^2.3.3",
     "react-bootstrap": "^1.0.0",
     "react-collapsible": "^2.7.0",
     "react-dom": "^16.13.0",
     "react-items-carousel": "^2.8.0",
     "request": "^2.88.2",
+    "sequelize": "^6.3.0",
     "underscore": "^1.9.2"
   },
   "devDependencies": {
