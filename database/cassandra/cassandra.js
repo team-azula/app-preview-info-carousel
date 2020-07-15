@@ -1,4 +1,5 @@
 const cassandra = require('cassandra-driver');
+const { executeConcurrent } = cassandra.concurrent;
 
 const client = new cassandra.Client({
   contactPoints: ['172.18.0.3'],
@@ -27,6 +28,7 @@ const getOneById = async (id) => {
   return result;
 };
 
+// fix so that it does not have to parse data, instead just takes a query and params
 const insertOne = async (data) => {
   console.log('data: ', data);
   const { id, images, app_description, additional_text } = data;
@@ -38,18 +40,22 @@ const insertOne = async (data) => {
   return result;
 };
 
+const insertAppQuery = 'INSERT INTO app (id, images, app_description, additional_text) VALUES (?, ?, ?, ?)';
 
-/**
- * test connection by making a query with id you know to exist
- */
-// getOneById('60d93601-de8d-4725-bb8d-0ab2f865161a')
-//   .then((result) => {
-//     console.log('result: ', result);
-//   })
-//   .catch((err) => {
-//     console.log('err: ', err);
-//   })
+const concurrentInsert = async (queries) => {
+  try {
+    await client.connect();
+    let insertResult = await executeConcurrent(client, insertAppQuery, queries, { concurrencyLevel: 32 });
+    return insertResult;
+  } catch (err) {
+    console.log('error in concurrentInsert: ', err);
+    return err;
+  }
+};
 
+const shutDownDb = () => {
+  client.shutdown();
+}
 
-module.exports = { getStateOfCassandra, getOneById, insertOne };
+module.exports = { getStateOfCassandra, getOneById, insertOne, concurrentInsert, shutDownDb };
 

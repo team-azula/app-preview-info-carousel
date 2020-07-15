@@ -1,8 +1,5 @@
-const faker = require('faker');
-const db = require('./pgIndex.js');
 
-
-const gettyImages = [
+module.exports.gettyImages = [
   "https://media.gettyimages.com/photos/boy-in-a-treehouse-looking-in-the-distance-with-binoculars-picture-id519079806?k=6&m=519079806&s=612x612&w=0&h=T2T1bqjrC5qWW8qG2DCO6dU-R6wHq2je4qaAcuIzHiE=",
   "https://media.gettyimages.com/photos/treehouse-picture-id980431586?k=6&m=980431586&s=612x612&w=0&h=DDWIINu8T0_am3qOxXSgHCT5HzGFPk6v9z16W4k5vCw=",
   "https://media.gettyimages.com/photos/diverse-group-of-children-smiling-and-waving-in-a-treehouse-picture-id518733276?k=6&m=518733276&s=612x612&w=0&h=f8PbLB1z27_UvUtudfE9NdQa9c34KnKsyViHRkQcXWM=",
@@ -14,8 +11,8 @@ const gettyImages = [
   "https://media.gettyimages.com/photos/father-and-sons-building-tree-house-picture-id80992391?k=6&m=80992391&s=612x612&w=0&h=nwVAygqI4hFmM57NH8ahUuE5CZplVpqaUbaCwIl9OcY=",
   "https://media.gettyimages.com/photos/man-enjoying-on-swing-against-mountain-and-sky-picture-id960876498?k=6&m=960876498&s=612x612&w=0&h=2hiq6TBKkIRi_SY8gcCPTR45eZAxciaqkQx05eqNh58=",
   "https://media.gettyimages.com/photos/couple-on-walkway-of-remote-tree-house-picture-id166345738?k=6&m=166345738&s=612x612&w=0&h=6pRJR4hO0p27MRB2MUO-EJZeBjFk5j5_FF0NdNnp9WI=",
-  "https://media.gettyimages.com/photos/boy-smiling-while-playing-with-friends-in-a-wooden-treehouse-picture-id516415358?k=6&m=516415358&s=612x612&w=0&h=6MMNiuS7c_ulgMEwVR-7i-mLsBijw2g1PQIa057PnL0=",
   "https://media.gettyimages.com/photos/tree-house-with-roof-terrace-picture-id111650761?k=6&m=111650761&s=612x612&w=0&h=nRTHf6f4EEmrzdh9fmady_UjcKfUSWRf_KPnLfmYJFY=",
+  "https://media.gettyimages.com/photos/boy-smiling-while-playing-with-friends-in-a-wooden-treehouse-picture-id516415358?k=6&m=516415358&s=612x612&w=0&h=6MMNiuS7c_ulgMEwVR-7i-mLsBijw2g1PQIa057PnL0=",
   "https://media.gettyimages.com/photos/low-angle-view-of-tree-house-against-sky-during-sunset-picture-id580825907?k=6&m=580825907&s=612x612&w=0&h=YKvMPdfLxevkXmPEdEyi0KpKHhV_9s8ox95S0siMWvY=",
   "https://media.gettyimages.com/photos/row-of-children-sitting-on-a-rustic-wooden-treehouse-porch-picture-id517127926?k=6&m=517127926&s=612x612&w=0&h=GZrXQB6BjxPmERZyV-Yso3xMlxKb_X4PC2Br5Rke8r4=",
   "https://media.gettyimages.com/photos/boy-in-tree-house-picture-id89028134?k=6&m=89028134&s=612x612&w=0&h=XYSML1M3Nk04C7TrRLtYQqHsoGZ1gwhnEmzEHjxKQMk=",
@@ -124,78 +121,3 @@ const gettyImages = [
   "https://media.gettyimages.com/photos/mark-wall-left-with-blue-river-forestry-tree-care-company-picks-up-picture-id517316952?k=6&m=517316952&s=612x612&w=0&h=1rmrukl1A7bhrPhaSeWdTzKjrEi9qHFxU1Ip02p0vow=",
   "https://media.gettyimages.com/photos/an-ancient-forest-rest-house-called-jogi-mahal-that-is-sheltered-by-a-picture-id496913483?k=6&m=496913483&s=612x612&w=0&h=-cAkTzJWjBE8-slXHcy-SnULyGUdGKep1kKkpsjRQrM="
 ];
-
-const getFakerImageURLs = (num) => {
-  let images = [];
-  for (let i = 0; i < num; i++) {
-    let randomIndex = Math.floor(Math.random() * gettyImages.length);
-    let imageUrl = gettyImages[randomIndex];
-    console.log('imageUrl: ', imageUrl);
-    images.push(image);
-  }
-  return images;
-};
-
-const getFakerParagraph = () => {
-  return faker.lorem.paragraph();
-};
-
-const makeFakeData = (numOfDataPoints) => {
-  let result = [];
-  for (let i = 0; i < numOfDataPoints; i++) {
-    let dataPoint = { preview_data: {} };
-    dataPoint.preview_data["images"] = getFakerImageURLs(8);
-    dataPoint.preview_data["app_description"] = getFakerParagraph();
-    dataPoint.preview_data["additional_text"] = getFakerParagraph();
-    console.log('dataPoint: ', dataPoint);
-    result.push(dataPoint);
-  }
-  // console.log('result from makeFakeData: ', result);
-  return result;
-};
-
-const insertBulk = (dataArray) => {
-  return db.addBulkApps(dataArray);
-};
-
-let chunkSize = 100;
-
-const seedPostgresDb = (dataSize) => {
-  let startTime = new Date().valueOf();
-  let inserted = 0;
-  return new Promise((resolve, reject) => {
-    const doNext = () => {
-      if (inserted >= dataSize) {
-        resolve();
-        return;
-      } else {
-        let dataChunk = makeFakeData(chunkSize);
-        insertBulk(dataChunk)
-          .then(() => {
-            inserted += dataChunk.length;
-            doNext();
-          })
-          .catch((err) => {
-            console.log('error with insertBulk: ', err);
-            resolve(err);
-          });
-      }
-    }
-    doNext();
-  })
-  .then(() => {
-    let endTime = new Date().valueOf();
-    let totalTime = ((endTime - startTime) / 1000);
-    console.log(`Done seeding db of ${dataSize} records with chunks of ${chunkSize}. Finished in ${totalTime} seconds, with recs-per-sec of ${Math.round(dataSize/totalTime)}`);
-  })
-  .catch((err) => {
-    console.log('there was an error seeding postgres: ', err);
-  });
-};
-
-const seed = () => {
-  seedPostgresDb(100);
-};
-seed();
-
-
