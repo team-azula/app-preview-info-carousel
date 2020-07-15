@@ -1,0 +1,9 @@
+
+sudo docker run --name cassandra-container-1 --network cassandra-net -d -p 9042:9042 -v ~/projectData/sdc/cassandra-1:/var/lib/cassandra --restart unless-stopped cassandra:latest
+
+sudo docker run --name cassandra-container-2 --network cassandra-net -d -v ~/projectData/sdc/cassandra-2:/var/lib/cassandra --restart unless-stopped -e CASSANDRA_SEEDS=cassandra-container cassandra:latest
+
+
+sudo docker run -v $(pwd):/csvData --network cassandra-net -it cassandra:latest bash
+
+sudo docker run --name node-container -v $(pwd):/code -it --network cassandra-net node bash
