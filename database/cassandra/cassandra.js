@@ -7,7 +7,7 @@ const client = new cassandra.Client({
   localDataCenter: 'datacenter1'
 });
 
-// console.log('client: ', client);
+
 const getStateOfCassandra = async () => {
   await client.connect();
   const state = client.getState();
@@ -15,8 +15,9 @@ const getStateOfCassandra = async () => {
   const hosts = state.getConnectedHosts();
   console.log('hosts: ', hosts);
 };
-
 // getStateOfCassandra();
+
+
 const getOneById = async (id) => {
   console.log('id: ', id);
   await client.connect();
@@ -26,7 +27,22 @@ const getOneById = async (id) => {
   return result;
 };
 
-// getOneById('82b3dc30-d37e-4be8-9167-f698cedc088b')
+const insertOne = async (data) => {
+  console.log('data: ', data);
+  const { id, images, app_description, additional_text } = data;
+  // return;
+  await client.connect();
+  const insertOneQuery = `INSERT INTO app (id, images, app_description, additional_text) VALUES (?, ?, ?, ?)`;
+  const params = [ id, images, app_description, additional_text ];
+  let result = await client.execute(insertOneQuery, params, { prepare: true });
+  return result;
+};
+
+
+/**
+ * test connection by making a query with id you know to exist
+ */
+// getOneById('60d93601-de8d-4725-bb8d-0ab2f865161a')
 //   .then((result) => {
 //     console.log('result: ', result);
 //   })
@@ -35,5 +51,5 @@ const getOneById = async (id) => {
 //   })
 
 
-module.exports = { getStateOfCassandra, getOneById };
+module.exports = { getStateOfCassandra, getOneById, insertOne };
 

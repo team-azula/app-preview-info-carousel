@@ -1,5 +1,11 @@
-const db = require('./cassIndex.js');
+const db = require('./cassandra.js');
+const cassandra = require('cassandra-driver');
+const csv = require('csv');
+const faker = require('faker');
+const { gettyImages } = require('./images.js');
+const { v4: uuidv4 } = require('uuid');
 
+const { executeConcurrent } = cassandra.concurrent;
 
 let sampleEntry = {
   images: [
@@ -15,40 +21,99 @@ let sampleEntry = {
   additional_text: 'THIS IS THE ADDITIONAL TEXT WUTTTTTTTT'
 };
 
-
-// const getFakerImageURLs = (num) => {
-//   let images = [];
-//   for (let i = 0; i < num; i++) {
-//     let image = faker.image.imageUrl();
-//     console.log('image: ', image);
-//     images.push(image);
+// const getRandomImageUrls = (num) => {
+//   let urls = [];
+//   for (i = 0; i < num; i++) {
+//     let randomIndex = Math.floor(Math.random() * gettyImages.length);
+//     let url = gettyImages[randomIndex];
+//     urls.push(url);
 //   }
-//   return images;
+//   return urls;
 // };
 
 // const getFakerParagraph = () => {
 //   return faker.lorem.paragraph();
 // };
 
-// const makeFakeData = (numOfDataPoints) => {
-//   let result = [];
-//   for (let i = 0; i < numOfDataPoints; i++) {
-//     let dataPoint = { preview_data: {} };
-//     dataPoint.preview_data["images"] = getFakerImageURLs(8);
-//     dataPoint.preview_data["app_description"] = getFakerParagraph();
-//     dataPoint.preview_data["additional_text"] = getFakerParagraph();
-//     console.log('dataPoint: ', dataPoint);
-//     result.push(dataPoint);
-//   }
-//   // console.log('result from makeFakeData: ', result);
-//   return result;
+const getRandomImageUrls = (num) => {
+  let urls = [];
+  for (i = 0; i < num; i++) {
+    let randomIndex = Math.floor(Math.random() * gettyImages.length);
+    let url = gettyImages[randomIndex];
+    urls.push(url);
+  }
+  return urls;
+};
+
+const getFakerParagraph = () => {
+  return faker.lorem.paragraph();
+};
+
+const generateRecord = () => {
+  let dataPoint = {};
+  dataPoint["id"] = uuidv4();
+  dataPoint["images"] = getRandomImageUrls(8);
+  dataPoint["app_description"] = getFakerParagraph();
+  dataPoint["additional_text"] = getFakerParagraph();
+  return dataPoint;
+};
+
+const seedOne = async () => {
+  let record = generateRecord();
+  let query = await db.insertOne(record);
+  // console.log('query: ', query);
+  return query;
+};
+
+return seedOne()
+  .then((result) => {
+    console.log('result from seedOne(): ', result);
+  })
+  .catch((err) => {
+    console.log('error from seedOne(): ', err);
+  })
+
+
+let startTime;
+let endTime;
+let chunkSize = 100;
+let totalTime;
+
+
+// const addSingleEntry = (dataObj) => {
+//   return db.cassInit()
+//     .then(() => {
+//       const { images, app_description, additional_text } = dataObj;
+//       return db.addSingleApp( {images, app_description, additional_text} )
+//         .catch((err) => {
+//           console.log('error adding single App: ', err);
+//           return err;
+//         })
+//     })
+//     .then((cassandraResponse) => {
+//       console.log('response from cassandra in cassSeed.addSingleEntry: ', cassandraResponse)
+//       return cassandraResponse;
+//     })
+//     .catch((err) => {
+//       console.log('error in cassSeed.addSingleEntry: ', err);
+//       return err;
+//     })
+//     // .then(() => {
+//     //   return db.readAllApps()
+//     // })
+//     .then((dbResponse) => {
+//       // console.log('dbResponse from readAllApps: ', JSON.stringify(dbResponse, null, '  '));
+//       return db.shutdown()
+//     })
+//     .then(() => {
+//       console.log('end');
+//     })
+//     .catch((err) => {
+//       console.log('error: ', err);
+//     });
 // };
 
-// const insertBulk = (dataArray) => {
-//   return db.addBulkApps(dataArray);
-// };
-
-// let chunkSize = 100;
+// addSingleEntry(sampleEntry);
 
 // const seedPostgresDb = (dataSize) => {
 //   let startTime = new Date().valueOf();
@@ -89,36 +154,39 @@ let sampleEntry = {
 // seed();
 
 
-const addSingleEntry = (dataObj) => {
-  return db.cassInit()
-    .then(() => {
-      const { images, app_description, additional_text } = dataObj;
-      return db.addSingleApp( {images, app_description, additional_text} )
-        .catch((err) => {
-          console.log('error adding single App: ', err);
-          return err;
-        })
-    })
-    .then((cassandraResponse) => {
-      console.log('response from cassandra in cassSeed.addSingleEntry: ', cassandraResponse)
-      return cassandraResponse;
-    })
-    .catch((err) => {
-      console.log('error in cassSeed.addSingleEntry: ', err);
-      return err;
-    })
-    .then(() => {
-      return db.readAllApps()
-    })
-    .then((dbResponse) => {
-      console.log('dbResponse from readAllApps: ', JSON.stringify(dbResponse, null, '  '));
+// const addSingleEntry = (dataObj) => {
+//   return db.cassInit()
+//     .then(() => {
+//       const { images, app_description, additional_text } = dataObj;
+//       return db.addSingleApp( {images, app_description, additional_text} )
+//         .catch((err) => {
+//           console.log('error adding single App: ', err);
+//           return err;
+//         })
+//     })
+//     .then((cassandraResponse) => {
+//       console.log('response from cassandra in cassSeed.addSingleEntry: ', cassandraResponse)
+//       return cassandraResponse;
+//     })
+//     .catch((err) => {
+//       console.log('error in cassSeed.addSingleEntry: ', err);
+//       return err;
+//     })
+//     // .then(() => {
+//     //   return db.readAllApps()
+//     // })
+//     .then((dbResponse) => {
+//       // console.log('dbResponse from readAllApps: ', JSON.stringify(dbResponse, null, '  '));
+//       return db.shutdown()
+//     })
+//     .then(() => {
+//       console.log('end');
+//     })
+//     .catch((err) => {
+//       console.log('error: ', err);
+//     });
+// };
 
-    })
-    .catch((err) => {
-      console.log('error: ', err);
-    });
-};
-
-addSingleEntry(sampleEntry);
+// addSingleEntry(sampleEntry);
 
 
