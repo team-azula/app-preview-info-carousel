@@ -1,3 +1,4 @@
+const newRelic = require('newrelic');
 const pg = require('pg');
 // const connectionString = 'postgres://postgres:gimmie@localhost:5432/SDC-backend';
 // const pgClient = new pg.Client(connectionString);
@@ -10,7 +11,7 @@ const { Sequelize } = require('sequelize');
  * password: 'gimmie'
  * host: localhost
  */
-const sequelize = new Sequelize('SDC-backend', 'SDC-backend', 'gimmie', {
+const sequelize = new Sequelize('sdc-backend', 'sdc-backend', 'gimmie', {
   host: 'localhost',
   dialect: 'postgres',
   logging: null
