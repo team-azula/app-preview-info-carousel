@@ -1,9 +1,9 @@
-const newRelic = require('newrelic');
+// const newRelic = require('newrelic');
 const express = require('express');
 const path = require('path');
 const model = require('../models/postgresModel.js');
 const bodyParser = require('body-parser');
-const db = require('../database/index.js');
+// const db = require('../database/index.js'); why was this here?
 const app = express();
 const PORT =  3003;
 
@@ -24,14 +24,13 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 
 app.get('/carousels/:id', (req, res) => {
-  console.log('req.params.id: ', req.params.id);
   const { id } = req.params;
   model.getOneById(id)
     .then((data) => {
       res.status(200).json(data);
     })
     .catch((err) => {
-      console.log('')
+      res.status(500).send('error with request: ', err);
     });
 });
 

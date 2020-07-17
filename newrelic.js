@@ -22,6 +22,9 @@ exports.config = {
    * this feature: https://docs.newrelic.com/docs/transition-guide-distributed-tracing
    * Default is false.
    */
+  transaction_tracer: {
+    enabled: false
+  },
   distributed_tracing: {
     /**
      * Enables/disables distributed tracing.
