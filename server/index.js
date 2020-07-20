@@ -1,4 +1,4 @@
-// const newRelic = require('newrelic');
+const newRelic = require('newrelic');
 const express = require('express');
 const path = require('path');
 const model = require('../models/postgresModel.js');
@@ -25,6 +25,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 app.get('/carousels/:id', (req, res) => {
   const { id } = req.params;
+  // console.log(`/carousels/${id} hit`);
   model.getOneById(id)
     .then((data) => {
       res.status(200).json(data);
