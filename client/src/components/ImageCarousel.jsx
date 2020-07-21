@@ -14,7 +14,6 @@ export default class ImageCarousel extends React.Component {
       activeItemIndex: 0
 
     }
-
     this.changeActiveItem = this.changeActiveItem.bind(this)
   }
 
@@ -61,8 +60,6 @@ export default class ImageCarousel extends React.Component {
   render() {
     const { items, activeItemIndex } = this.state;
     const { current, prevData } = this.props;
-
-    console.log('current.data: ', current.data)
     return (
       <div className="contents" style={{
         width: '650px'

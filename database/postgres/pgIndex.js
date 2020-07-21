@@ -6,13 +6,13 @@ const pg = require('pg');
 const { Sequelize } = require('sequelize');
 
 /**
- * database name: 'SDC-backend'
- * username: postgres
+ * database name: 'sdc-backend'
+ * username: sdc-backend
  * password: 'gimmie'
  * host: localhost
  */
-const sequelize = new Sequelize('sdc-backend', 'sdc-backend', 'gimmie', {
-  host: 'localhost',
+const sequelize = new Sequelize('sdc-backend', process.env.PGUSER || 'sdc-backend', process.env.PGPASS || 'gimmie', {
+  host: 'dev-postgres',
   dialect: 'postgres',
   logging: null
 });
@@ -69,6 +69,7 @@ const getAllAppData = async () => {
 };
 
 const getSingleApp = async (app_id) => {
+  // console.log('finding app with id: ', app_id);
   return AppPreviewData.findAll({
     where: { "app_id": app_id },
     raw: true

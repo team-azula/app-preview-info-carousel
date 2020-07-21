@@ -26,10 +26,15 @@
   <script>
     // let params = new URLSearchParams((new URL(window.location)).search);
     // let id = params.get('id');
-        ReactDOM.render(
-        React.createElement(App0, {id: 11}),
-        document.getElementById('app0')
-      );
+    let params = new URLSearchParams(window.location.search);
+      let id = params.get("id")
+      if (id === null) {
+        id = 1;
+      };
+    ReactDOM.render(
+      React.createElement(App0, { id }),
+      document.getElementById('app0')
+    );
   </script>
 
 

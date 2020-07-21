@@ -37,11 +37,10 @@ class App0 extends React.Component {
   }
 
   componentDidMount = () => {
+    console.log('making ajax request with id: ', this.state.id);
     axios.get(`/carousels/${this.state.id}`)
     .then((response) => {
-      console.log('response: ', response);
       let { preview_data } = response.data[0];
-      // console.log('preview_data: ', preview_data);
       this.setState({
         current: response,
         description: preview_data.app_description,
@@ -85,7 +84,6 @@ class App0 extends React.Component {
     const { lines, current } = this.state;
     const { id } = this.props;
     const prevData = this.state.current.data[0].preview_data
-    console.log('prevData: ', prevData);
     return (
       <div className="carouselContents">
         <ImageCarousel
