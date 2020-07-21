@@ -10,7 +10,7 @@ const { Sequelize } = require('sequelize');
  * password: 'gimmie'
  * host: localhost
  */
-const sequelize = new Sequelize('SDC-backend', 'SDC-backend', 'gimmie', {
+const sequelize = new Sequelize('sdc-backend', 'sdc-backend', 'gimmie', {
   host: 'localhost',
   dialect: 'postgres',
   logging: null

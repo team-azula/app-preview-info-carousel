@@ -1,3 +1,4 @@
+const newRelic = require('newrelic');
 const faker = require('faker');
 const db = require('./pgIndex.js');
 
@@ -130,8 +131,8 @@ const getFakerImageURLs = (num) => {
   for (let i = 0; i < num; i++) {
     let randomIndex = Math.floor(Math.random() * gettyImages.length);
     let imageUrl = gettyImages[randomIndex];
-    console.log('imageUrl: ', imageUrl);
-    images.push(image);
+    // console.log('imageUrl: ', imageUrl);
+    images.push(imageUrl);
   }
   return images;
 };
@@ -147,7 +148,7 @@ const makeFakeData = (numOfDataPoints) => {
     dataPoint.preview_data["images"] = getFakerImageURLs(8);
     dataPoint.preview_data["app_description"] = getFakerParagraph();
     dataPoint.preview_data["additional_text"] = getFakerParagraph();
-    console.log('dataPoint: ', dataPoint);
+    // console.log('dataPoint: ', dataPoint);
     result.push(dataPoint);
   }
   // console.log('result from makeFakeData: ', result);
@@ -158,7 +159,7 @@ const insertBulk = (dataArray) => {
   return db.addBulkApps(dataArray);
 };
 
-let chunkSize = 100;
+let chunkSize = 10;
 
 const seedPostgresDb = (dataSize) => {
   let startTime = new Date().valueOf();
