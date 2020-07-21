@@ -1,3 +1,4 @@
+const newRelic = require('newrelic');
 const pg = require('pg');
 // const connectionString = 'postgres://postgres:gimmie@localhost:5432/SDC-backend';
 // const pgClient = new pg.Client(connectionString);

@@ -26,64 +26,69 @@ export default class ImageCarousel extends React.Component {
 //   //   }).catch(err => console.log(err));
 // }
 
-  UNSAFE_componentWillMount() {
-    axios.get(`/carousels/${this.props.id}`).then((data) => {
-      this.setState({
-        items: data.data[0].images,
-        activeItemIndex: 0
-      })
-      console.log(this.state.items)
-      }).catch(err => console.log(err));
-
-}
+//   UNSAFE_componentWillMount() {
+//     axios.get(`/carousels/${this.props.id}`).then((data) => {
+//       this.setState({
+//         items: data.data[0].images,
+//         activeItemIndex: 0
+//       })
+//       console.log(this.state.items)
+//       }).catch(err => console.log(err));
+// }
 
 
   changeActiveItem = (activeItemIndex) => this.setState({ activeItemIndex });
 
+  mapImages(preview_data) {
+    if (!preview_data) {
+      return null;
+    }
+    return (
+      Array.from(new Array(14)).map((_, i) =>
+        <div className = 'carousel-img'
+          key={i}
+          style={{
+            height: 300,
+            width: 180,
+            background: `url(${preview_data.images[i]})`
+          }}
+        />
+      )
+    )
+  }
 
 
   render() {
-    const {
-      activeItemIndex,
-      children,
-    } = this.state;
+    const { items, activeItemIndex } = this.state;
+    const { current, prevData } = this.props;
 
+    console.log('current.data: ', current.data)
     return (
       <div className="contents" style={{
         width: '650px'
       }}>
         <ItemsCarousel
-
-    enablePlaceholder={false}
-    numberOfPlaceholderItems={3}
-    numberOfCars={3.5}
-    infiniteLoop={false}
-    gutter={1}
-    activePosition={'center'}
-    chevronWidth={35}
-    disableSwipe={false}
-    alwaysShowChevrons={false}
-    numberOfCards={3}
-    slidesToScroll={1}
-    outsideChevron={true}
-    showSlither={true}
-    firstAndLastGutter={false}
-    activeItemIndex={this.state.activeItemIndex}
-    requestToChangeActive={value => this.setState({ activeItemIndex: value })}
-    rightChevron={<div className="chevron-arrow-right"></div>}
-    leftChevron={<div className="chevron-arrow-left"></div>}
-  >
-  {Array.from(new Array(14)).map((_, i) =>
-  <div className = 'carousel-img'
-    key={i}
-    style={{
-      height: 300,
-      width: 180,
-      background: `url(https://source.unsplash.com/random)`
-    }}
-  />
-)}
-  </ItemsCarousel>
+          enablePlaceholder={false}
+          numberOfPlaceholderItems={3}
+          numberOfCars={3.5}
+          infiniteLoop={false}
+          gutter={1}
+          activePosition={'center'}
+          chevronWidth={35}
+          disableSwipe={false}
+          alwaysShowChevrons={false}
+          numberOfCards={3}
+          slidesToScroll={1}
+          outsideChevron={true}
+          showSlither={true}
+          firstAndLastGutter={false}
+          activeItemIndex={this.state.activeItemIndex}
+          requestToChangeActive={value => this.setState({ activeItemIndex: value })}
+          rightChevron={<div className="chevron-arrow-right"></div>}
+          leftChevron={<div className="chevron-arrow-left"></div>}
+        >
+        {this.mapImages(prevData)}
+        </ItemsCarousel>
       </div>
     );
   }
