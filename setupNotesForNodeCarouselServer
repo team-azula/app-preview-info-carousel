@@ -1,0 +1,16 @@
+# when you create the new postgres instance:
+
+# use this ami id:
+ami-024def4b62933fe1c
+
+# login to the machine
+ssh -i ~/Downloads/sdc-host.pem ubuntu@3.133.82.52
+# NOTE: the above ip address is taken from the address of the newly created instance (shown in the aws console)
+
+# pull down / run the docker image with:
+sudo docker run -d -e PGHOST=3.133.82.52 -p 3003:3003 --restart unless-stopped christuckerdocker/postgres-node-proxy:node-carousel-app
+# NOTE: the above ip address and host is of the current running postgres instance, found in aws dashboard
+
+# in the aws console, edit the security group incoming rules on both the carousel-server instance and the instance with postgres on it
+
+

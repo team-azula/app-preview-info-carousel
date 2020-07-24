@@ -35,6 +35,10 @@ app.get('/carousels/:id', (req, res) => {
     });
 });
 
+app.get('/loaderio-8073b02c5b830a8a0cc680434ca6bee2/', (req, res) => {
+  res.status(200).send('loaderio-8073b02c5b830a8a0cc680434ca6bee2');
+});
+
 app.post('/carousels', (req, res) => {
   let data = req.body;
   if (data._id) {

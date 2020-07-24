@@ -7,10 +7,10 @@ type PreviewData struct {
 }
 
 func FindOne(id string) (result []Apps, err error) {
-	ci, err := GetOneById(id)
+	carouselInfo, err := GetOneById(id)
 	if err != nil {
 		return
 	}
-	result = []Apps{ci}
+	result = []Apps{carouselInfo}
 	return
 }

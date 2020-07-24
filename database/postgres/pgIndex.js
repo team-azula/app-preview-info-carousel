@@ -11,8 +11,12 @@ const { Sequelize } = require('sequelize');
  * password: 'gimmie'
  * host: localhost
  */
-const sequelize = new Sequelize('sdc-backend', process.env.PGUSER || 'sdc-backend', process.env.PGPASS || 'gimmie', {
-  host: 'dev-postgres',
+const pgUser = process.env.PGUSER || 'sdc-backend';
+const pgPass = process.env.PGPASS || 'gimmie';
+const pgHost = process.env.PGHOST || 'dev-postgres';
+
+const sequelize = new Sequelize('sdc-backend', pgUser, pgPass, {
+  host: pgHost,
   dialect: 'postgres',
   logging: null
 });

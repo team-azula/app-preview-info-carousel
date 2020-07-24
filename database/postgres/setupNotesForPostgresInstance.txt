@@ -1,0 +1,42 @@
+# when you create the new postgres instance:
+
+# use this ami id:
+ami-024def4b62933fe1c
+
+# change subnet option to us-east-2c
+
+# to attach volume to instance:
+#  - you have to do that through the ec2 console
+#  - there's a param that asks for the device path, and you give /dev/sdf
+
+# login to the machine
+ssh -i ~/Downloads/sdc-host.pem ubuntu@3.133.82.52
+NOTE: the above ip address is taken from the address of the newly created instance (shown in the aws console)
+
+sudo mkdir /mnt/pg-volume
+# this makes the directory that the volume is going to mount on to
+
+sudo pico /etc/fstab
+
+and then add the following line:
+
+/dev/xvdf               /mnt/pg-volume ext4 defaults,nofail     0 0
+# do control+o to write out
+# then exit
+
+# then
+  sudo mount -a
+# .. to mount all the auto-mount files in /etc/fstab
+
+# at this point you have a machine and it should have mounted with the postgres data
+
+# varify that the pg-data is there by doing
+  sudo ls -al /mnt/pg-volume
+
+# if it's there:
+# start the docker instance:
+sudo docker run --name postgres-container -p 5432:5432 -v /mnt/pg-volume/postgres-data:/var/lib/postgresql/data -d --restart unless-stopped postgres
+
+# to check that the data is available:
+sudo docker exec -it postgres-container psql -U sdc-backend -c "select * from apps where app_id=9999999;"
+
