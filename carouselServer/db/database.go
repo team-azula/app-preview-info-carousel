@@ -17,7 +17,7 @@ func init() {
 		dbUser = "sdc-backend"
 	}
 	if dbPass == "" {
-		dbPass = "gimmie"
+		dbPass = ""
 	}
 	if dbHost == "" {
 		dbHost = "dev-postgres"
