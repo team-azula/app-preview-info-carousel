@@ -7,3 +7,4 @@ sudo docker run --name cassandra-container-2 --network cassandra-net -d -v ~/pro
 sudo docker run -v $(pwd):/csvData --network cassandra-net -it cassandra:latest bash
 
 sudo docker run --name node-container -v $(pwd):/code -it --network cassandra-net node bash
+

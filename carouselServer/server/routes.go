@@ -10,14 +10,36 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
+	"github.com/newrelic/go-agent/v3/newrelic"
 )
 
 var LoaderIoString = os.Getenv("LOADER_IO_ID")
+var NewRelicKey = os.Getenv("NR_KEY")
 
 func StartServer() {
+	var newRelicErr error
+	var app *newrelic.Application
+	if NewRelicKey != "" {
+		app, newRelicErr = newrelic.NewApplication(
+			newrelic.ConfigAppName("go-carousel-server"),
+			newrelic.ConfigLicense(NewRelicKey),
+		)
+		if newRelicErr != nil {
+			fmt.Printf("FAILED to enable NewRelic: %s", newRelicErr)
+		} else {
+			fmt.Printf("Enabled NewRelic tracking")
+		}
+	}
 	fmt.Printf("Go server started on port 8000 \n")
 	router := mux.NewRouter()
-	router.HandleFunc("/carousels/{id}", CarouselHandler)
+
+	carouselHandler := CarouselHandler
+	carouselPath := "/carousels/{id}"
+	if newRelicErr == nil {
+		carouselPath, carouselHandler = newrelic.WrapHandleFunc(app, carouselPath, CarouselHandler)
+	}
+
+	router.HandleFunc(carouselPath, carouselHandler)
 	fmt.Printf("loader io string: %s \n", LoaderIoString)
 	if LoaderIoString != "" {
 		router.HandleFunc(fmt.Sprintf("/%s/", LoaderIoString), LoaderHandler)
